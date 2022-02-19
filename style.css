@@ -26,7 +26,7 @@ body{
 .wrapper{
     background: var(--Grayish_Blue);
     border-radius: 7px;
-    width: 350px;
+    width: 500px;
     text-align: center;
     align-items: center;
     justify-content: center;
